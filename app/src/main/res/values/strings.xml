@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OpenCVApplication</string>
+    <string name="opencv_init_success">OpenCV initialization successfully!</string>
+    <string name="opencv_init_failed">OpenCV initialization failed!</string>
+    <string name="image_isnt_selected">Please select an image first</string>
+    <string name="image_type">image/*</string>
+    <string name="blur_label">Blur: %d%%</string>
+</resources>
